@@ -55,6 +55,7 @@ body {
 .logo p a {
 	color:#FAFAFA;
 	display: block;
+	height: 100%;
 }
 .logo p span {
 	margin-right: 2px;
@@ -123,6 +124,7 @@ body {
 }
 #col-1-pic {
 	margin-top: 10px;
+	position: relative;
 	padding: 0;
 	background: linear-gradient(0deg, #000, transparent 60%),
                 #000 url('https://assets.entrepreneur.com/content/16x9/822/20160310213849-strong-business-woman-executive.jpeg') no-repeat center;
@@ -130,30 +132,34 @@ body {
 #col-1-pic p:first-child {
 	height: 32px;
 	width: 150px;
-	margin-top: 252px;
+	display: block;
 	padding-top: 6px;
 	padding-left: 60px;
-	margin-left: 0;
+	left: 0;
 	bottom: 200px;
 	background-color: rgba(194,0,0,0.9);
 	color: #fff;
 	border-radius: 0 5px 5px 0;
+	top:50%;
+	position: absolute;
 }
-#col-1-pic p:nth-child(2) {
+#col-1-pic h1 {
 	color: #fff;
 	font-size: 1.9em;
 	letter-spacing: 1px;
 	font-weight: 600;
-	height: 120px;
+	height: 100px;
 	width: 350px;
 	margin-left: 10%;
 	margin-bottom: 0;
 }
-#col-1-pic p:nth-child(2) a {
-
+#col-1-pic div{
+	top:60%;
+	position: absolute;
 }
+
 .author {
-	width:30%;
+	width:60%;
 	margin-left: 10%;
 	color: #fff;
 	font-size: 0.7em;
@@ -209,9 +215,12 @@ body {
 	border-bottom: 1px solid #E6E6E6;
 }
 .latest-news-img_section {
+	overflow: hidden;
+}
+.latest-news-img_section img{
 	margin-top: 13px;
 	height: 174px;
-	background: url('https://assets.entrepreneur.com/content/3x2/274/20150220213125-credit.jpeg') center;
+	width: auto;
 }
 .latest-news-content_section-tags,
 .top20-content_section-tags,
