@@ -300,6 +300,11 @@ body {
 		width:75px;
 	}
 }
+@media(max-width:3000px){
+	#button{
+		width:75px;
+	}
+}
 @media(max-width:991px){
 	.nav-menu {
 		display: none;
