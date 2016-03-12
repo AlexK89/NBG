@@ -403,6 +403,9 @@ footer a:hover {
   .nav-menu {
     display: none; }
 
+  #col-1 {
+    padding-left: 0px; }
+
   #col-1-pic {
     height: 350px; }
 
