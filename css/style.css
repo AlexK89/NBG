@@ -406,6 +406,9 @@ footer a:hover {
   #col-1 {
     padding-left: 0px; }
 
+  #col-1-text {
+    padding-right: 15px; }
+
   #col-1-pic {
     height: 350px; }
 
