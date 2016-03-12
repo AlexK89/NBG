@@ -295,6 +295,12 @@ body {
 }
 /* Media queries
 ===================================*/
+@media(min-width: 1500px;){
+	.main-header{
+		width: 80%;
+		margin-left: 10%;
+	}
+}
 @media(max-width:3000px){
 	#button{
 		width:75px;
