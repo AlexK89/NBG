@@ -81,14 +81,13 @@ body {
   text-align: center; }
 
 .nav-menu li {
-  padding-top: 23px;
   list-style-type: none; }
 
-.nav-menu li a {
-  display: block; }
-
 .nav-menu a {
-  color: #fff; }
+  color: #fff;
+  display: block;
+  height: 100%;
+  vertical-align: center; }
 
 .nav-menu a:hover {
   color: #FFF; }
@@ -96,7 +95,8 @@ body {
 .nav-menu {
   font-weight: 300;
   font-size: 1.2em;
-  letter-spacing: 1px; }
+  letter-spacing: 1px;
+  margin-bottom: 0; }
 
 .nav-search {
   margin: auto;
