@@ -430,5 +430,12 @@ footer a:hover {
 
   .copyright h5 a {
     display: none; } }
+@media (max-width: 450px) {
+  .top20-container-col_1-img,
+  .lifehack-container-col_1-img {
+    height: 200px;
+    width: 220px;
+    overflow: hidden;
+    margin: auto; } }
 
 /*# sourceMappingURL=style.css.map */
