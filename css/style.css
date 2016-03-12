@@ -276,7 +276,8 @@ body {
 
 .top20-container-col2-content,
 .lifehack-container-col2-content {
-  height: 320px; }
+  height: 320px;
+  margin-bottom: 30px; }
 
 .top20-container-col_2-img,
 .lifehack-container-col_2-img {
