@@ -135,59 +135,59 @@ body {
   background: #424242; }
 
 .body-sector-1 {
-  background: radial-gradient(rgba(0, 0, 0, 0.4), black), url("../img/leadership.png") no-repeat center;
+  background: radial-gradient(rgba(0, 0, 0, 0.4), black), url("../img/leadership.jpg") no-repeat center;
   background-size: 700px 400px; }
 
 .body-sector-1:hover {
-  background: radial-gradient(rgba(194, 0, 0, 0.6), black), url("../img/leadership.png") no-repeat center;
+  background: radial-gradient(rgba(194, 0, 0, 0.6), black), url("../img/leadership.jpg") no-repeat center;
   background-size: 700px 400px; }
 
 .body-sector-2 {
-  background: radial-gradient(rgba(0, 0, 0, 0.4), black), url("../img/strategy.png") no-repeat center;
+  background: radial-gradient(rgba(0, 0, 0, 0.4), black), url("../img/strategy.jpg") no-repeat center;
   background-size: 700px 400px; }
 
 .body-sector-2:hover {
-  background: radial-gradient(rgba(194, 0, 0, 0.6), black), url("../img/strategy.png") no-repeat center;
+  background: radial-gradient(rgba(194, 0, 0, 0.6), black), url("../img/strategy.jpg") no-repeat center;
   background-size: 700px 400px; }
 
 .body-sector-3 {
-  background: radial-gradient(rgba(0, 0, 0, 0.4), black), url("../img/marketing.png") no-repeat center;
+  background: radial-gradient(rgba(0, 0, 0, 0.4), black), url("../img/marketing.jpg") no-repeat center;
   background-size: 700px 400px; }
 
 .body-sector-3:hover {
-  background: radial-gradient(rgba(194, 0, 0, 0.6), black), url("../img/marketing.png") no-repeat center;
+  background: radial-gradient(rgba(194, 0, 0, 0.6), black), url("../img/marketing.jpg") no-repeat center;
   background-size: 700px 400px; }
 
 .body-sector-4 {
-  background: radial-gradient(rgba(0, 0, 0, 0.4), black), url("../img/technology.png") no-repeat center;
+  background: radial-gradient(rgba(0, 0, 0, 0.4), black), url("../img/technology.jpg") no-repeat center;
   background-size: 700px 400px; }
 
 .body-sector-4:hover {
-  background: radial-gradient(rgba(194, 0, 0, 0.6), black), url("../img/technology.png") no-repeat center;
+  background: radial-gradient(rgba(194, 0, 0, 0.6), black), url("../img/technology.jpg") no-repeat center;
   background-size: 700px 400px; }
 
 .body-sector-5 {
-  background: radial-gradient(rgba(0, 0, 0, 0.4), black), url("../img/finance.png") no-repeat center;
+  background: radial-gradient(rgba(0, 0, 0, 0.4), black), url("../img/finance.jpg") no-repeat center;
   background-size: 700px 400px; }
 
 .body-sector-5:hover {
-  background: radial-gradient(rgba(194, 0, 0, 0.6), black), url("../img/finance.png") no-repeat center;
+  background: radial-gradient(rgba(194, 0, 0, 0.6), black), url("../img/finance.jpg") no-repeat center;
   background-size: 700px 400px; }
 
 .body-sector-6 {
-  background: radial-gradient(rgba(0, 0, 0, 0.4), black), url("../img/entrepreneur.png") no-repeat center;
+  background: radial-gradient(rgba(0, 0, 0, 0.4), black), url("../img/entrepreneur.jpg") no-repeat center;
   background-size: 700px 400px; }
 
 .body-sector-6:hover {
-  background: radial-gradient(rgba(194, 0, 0, 0.6), black), url("../img/entrepreneur.png") no-repeat center;
+  background: radial-gradient(rgba(194, 0, 0, 0.6), black), url("../img/entrepreneur.jpg") no-repeat center;
   background-size: 700px 400px; }
 
 .body-sector-7 {
-  background: radial-gradient(rgba(0, 0, 0, 0.4), black), url("../img/first-step.png") no-repeat center;
+  background: radial-gradient(rgba(0, 0, 0, 0.4), black), url("../img/first-step.jpg") no-repeat center;
   background-size: 700px 400px; }
 
 .body-sector-7:hover {
-  background: radial-gradient(rgba(194, 0, 0, 0.6), black), url("../img/first-step.png") no-repeat center;
+  background: radial-gradient(rgba(194, 0, 0, 0.6), black), url("../img/first-step.jpg") no-repeat center;
   background-size: 700px 400px; }
 
 /* Footer
