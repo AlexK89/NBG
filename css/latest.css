@@ -112,7 +112,11 @@ body {
 #col-1 {
   margin-top: 30px;
   padding-bottom: 10px;
-  padding-right: 0; }
+  padding-right: 0; 
+}
+#col-2 {
+  margin-top: 40px;
+}
 
 #col-1-container {
   border-bottom: 1px solid #E6E6E6;
