@@ -141,10 +141,11 @@ body {
 	background-color: rgba(194,0,0,0.9);
 	color: #fff;
 	border-radius: 0 5px 5px 0;
-	top:50%;
+	top:30%;
 	position: absolute;
 }
-#col-1-pic h1 {
+#col-1-pic h1,
+#col-1-pic h2 {
 	color: #fff;
 	font-size: 1.9em;
 	letter-spacing: 1px;
@@ -153,8 +154,13 @@ body {
 	margin-left: 10%;
 	margin-bottom: 0;
 }
+#col-1-pic h1 {
+	font-size: 5em;
+	margin-top: 20px;
+	font-family: coursive;
+}
 #col-1-pic div{
-	top:60%;
+	top:40%;
 	position: absolute;
 }
 
@@ -204,7 +210,13 @@ body {
 
 /* Latest News block 
 ===================================*/
-
+.number {
+	padding: 0;
+	text-align: center;
+}
+#latest:last-child {
+	margin-bottom: 40px;
+}
 .latest-news {
 	display: block;
 	height: auto;
@@ -316,40 +328,6 @@ footer a:hover{
 	float: right;
 }
 
-/* MORE TOPICS */
-
-.next-button {
-	margin-top: 40px;
-	margin-bottom: 40px;
-	margin-left: 35%;
-	display: inline-block;
-	background-color: #424242;
-	border-radius: 10px;
-	width: 30%;
-	height: 55px;
-}
-.next-button p {
-	text-align: center;
-	color: #FFF;
-	font-size: 1.5em;
-	display: block;
-	height: 100%;
-
-}
-.next-button a {
-	text-decoration: none;
-	padding-top: 12px;
-	display: block;
-	height: 100%;
-	letter-spacing: 2px;
-	font-weight: 100;
-
-}
-.next-button a:hover {
-	background-color: rgba(194,0,0,0.8);
-	border-radius: 10px;
-} 
-
 /* Media queries
 ===================================*/
 @media(min-width: 1500px){
@@ -413,7 +391,7 @@ footer a:hover{
 		top:5%;
 	}
 	#col-1-pic div{
-		top:50%;
+		top:20%;
 	}
 	#col-1-container {
 		height: 400px;
@@ -429,11 +407,7 @@ footer a:hover{
 	.copyright h5 a{
 		display: none;
 	}
-	.next-button {
-		margin-left: 15%;
-		width: 70%;
+	.number {
+		text-align: left;
 	}
-}
-@media(max-width:450px){
-
 }
