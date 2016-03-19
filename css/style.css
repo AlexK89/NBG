@@ -212,22 +212,17 @@ body {
   height: 174px;
   width: auto; }
 
-.latest-news-content_section-tags,
-.top20-content_section-tags,
-.lifehack-content_section-tags {
+.tags {
   margin-top: 12px; }
 
-.latest-news-content_section-tags a,
-.top20-content_section-tags a,
-.lifehack-content_section-tags a {
+.tags a{
   margin-right: 5px;
   padding: 4px;
-  font-size: 0.8em;
-  font-weight: 100;
-  letter-spacing: 1px;
+  font-size: 1em;
+  color: #EDEDED;
   background-color: #BABABA;
-  border-radius: 3px; }
-
+  border-radius: 3px; 
+}
 .latest-news-content_section-head a,
 .top20-content_section-head a,
 .lifehack-content_section-head a {
