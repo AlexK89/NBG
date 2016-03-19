@@ -315,6 +315,12 @@ footer a:hover {
     font-size: 1.1em;
     margin-top: 10px; }
 
+  .tags {
+    text-align: center; }
+
+  .tags a {
+    float: none; }
+
   #adds {
     display: none; }
 
